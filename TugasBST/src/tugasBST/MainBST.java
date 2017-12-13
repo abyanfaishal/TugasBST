@@ -4,7 +4,7 @@ package tugasBST;
  *
  * @author Abyan Faishal
  */
-public class Main1 {
+public class MainBST {
     public static void main(String [] args){
         BinarySearchTree y = new BinarySearchTree();
         y.put(1, 'a');
